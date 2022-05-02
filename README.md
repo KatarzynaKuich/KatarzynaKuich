@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatarzynaKuich
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
